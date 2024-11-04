@@ -1,1 +1,0 @@
-# studentEnrollmet.js
